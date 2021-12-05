@@ -12,3 +12,6 @@ em {
   font-weight: bold;
   text-decoration: underline;
 }
+#demo {
+background: #D0E4F5 url("https://www.thoughtco.com/thmb/qoPA4Apexytb-COWRoSNNoXPohk=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-cards-on-white-background-767988479-5c4bd7bb4cedfd0001ddb36e.jpg") repeat fixed 50px 50px;
+}
