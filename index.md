@@ -2,11 +2,10 @@
 <html>
 <head>
   <h1>Bridge Club</h1>
-  <h1 style="color:red;">
+  <p><i> at the University of Chicago<i></p>
  </head>
  <body>
-     <h2> at the University of Chicago</h2>
- <p>we meet thursdays at 8 in hutch commons</p>
- beginners welcome</b>
+ <h2>we meet thursdays at 8 in hutch commons</h2>
+ <p><b>beginners welcome<b></p>
   </body>
 </html>
