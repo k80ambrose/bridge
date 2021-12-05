@@ -8,7 +8,9 @@
           <link href="css/main.css" rel="stylesheet">
        </head>
  <body>
-    <h1>Bridge Club<sub><i>at the University of Chicago<i><sub><h1>
+      <center>
+    <h1 style="color: red; background-color: black;">
+         <h1>Bridge Club<sub><i>at the University of Chicago<i><sub><h1>
       <h2>we meet thursdays at 8 in hutch commons</h2>
     <p><b>begginers are welcome<b></p>
   </body>
