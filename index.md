@@ -6,6 +6,6 @@
  </head>
  <body>
  <h2>we meet thursdays at 8 in hutch commons</h2>
- <p><b>beginners welcome<b></p>
+ <p><b>begginers are welcome<b></p>
   </body>
 </html>
