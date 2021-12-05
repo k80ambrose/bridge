@@ -1,2 +1,2 @@
 # bridge
-website for uchicago bridge club
+this is a website for the uchicago bridge club
