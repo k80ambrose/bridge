@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>A Meaningful Page Title</title>
- <style>
-  <link rel="stylesheet" href="mystyle.css">
-  </style>
+  <h1>Bridge Club</h1>
+  <h1 style="color:red;">
  </head>
- 
  <body>
-     at the University of Chicago</b>
- <h2>we meet thursdays at 8 in hutch commons</h2>
+     <h2> at the University of Chicago</h2>
+ <p>we meet thursdays at 8 in hutch commons</p>
  beginners welcome</b>
   </body>
 </html>
