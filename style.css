@@ -1,19 +1,20 @@
 body {
-  background-color: Green;
+  background-color: DarkGreen;
   font-family: Times, serif;
   cursor: url(http://www.rw-designer.com/cursor-extern.php?id=8306);
 }
 
 h1 {
   color: white;
-  text-shadow: 2px 2px 2px #C70202;
+  text-shadow: 3px 3px 3px FireBrick;
   font-family: times, serif;
   font-size:30 px;
   font-weight: bold;
 }
 
 h2 {
-  color: FireBrick;
+  color: White;
+  text-shadow: 2px 2px 2px FireBrick;
   font-family: times, serif;
   font-size:20 px;
   font-weight: normal;
