@@ -7,14 +7,12 @@
          <link rel="stylesheet" href="style.css"/>
        </head>
 <body>
-<center>
-<h1>Bridge Club<sub><em>at the University of Chicago</em></sub></h1>
-</center><nav>
-<ul>
-<li><a href="main/info">about us</a></li>
-<li><a href="main/resources">bridge resources</a></li>
-</ul>
-</nav>
+      <center>
+            <h1>Bridge Club<sub><em>at the University of Chicago</em></sub></h1>
+            <div></div>
+      </center>
+      <h2>About us</h2>
+      <p>dummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytext</p>
 <p>we meet thursdays at 8</p>
 <p><strong>begginers are welcome</strong></p>
 <center>
