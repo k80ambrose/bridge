@@ -11,7 +11,7 @@
 <h1>Bridge Club<sub><em>at the University of Chicago</em></sub></h1>
 </center><nav>
 <ul>
-<li><a href="main/about">about us</a></li>
+<li><a href="main/info">about us</a></li>
 <li><a href="main/resources">bridge resources</a></li>
 </ul>
 </nav>
