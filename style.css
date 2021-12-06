@@ -4,6 +4,10 @@ body {
   cursor: url(http://www.rw-designer.com/cursor-extern.php?id=8306);
 }
 
+.module {
+  cursor: url('http://www.rw-designer.com/cursor-extern.php?id=8306'), auto;	
+}
+
 h1 {
   color: white;
   text-shadow: 3px 3px 3px FireBrick;
