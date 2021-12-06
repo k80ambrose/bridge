@@ -18,6 +18,6 @@
 <p>we meet thursdays at 8</p>
 <p><strong>begginers are welcome</strong></p>
 
-<h1><button>join our mailing list</button></h1>
-      
+<button>join our mailing list</button>
+      </body>   
 </html>
