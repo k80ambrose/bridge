@@ -16,7 +16,7 @@
 <p>we meet thursdays at 8</p>
 <p><strong>begginers are welcome</strong></p>
 <center>
-<button>join our mailing list</button>
+   <a href='https://lists.uchicago.edu/web/info/bridge'><button>join our mailing list</button></a>
       </center>
       </body>   
 </html>
