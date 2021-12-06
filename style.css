@@ -1,16 +1,16 @@
 body {
-  background-color:red;
-  font-family:"Times New Roman", serif;
+  background-color:darkgreen;
+  font-family:"Times New Roman", Times, serif;
 }
 
 h1 {
   color: "FireBrick";
   font-size: 30 px;
-  font weight: normal;
+  font-weight: bold;
 }
 
 p {
-  color: black;
+  color: white;
   font-size: 12 px
-    font-weight: normal
+  font-weight: normal
 }
