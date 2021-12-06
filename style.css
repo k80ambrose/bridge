@@ -1,5 +1,5 @@
 body {
-  background-color: DarkGreen;
+  background-color: Green;
   font-family: Times, serif;
 }
 
@@ -8,6 +8,13 @@ h1 {
   font-family: times, serif;
   font-size:30 px;
   font-weight: bold;
+}
+
+h2 {
+  color: FireBrick;
+  font-family: times, serif;
+  font-size:20 px;
+  font-weight: normal;
 }
 
 p {
