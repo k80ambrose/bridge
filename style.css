@@ -1,6 +1,6 @@
 body {
-  background-color: red;
-  font-family: "Times New Roman", serif :
+  background-color:red;
+  font-family:"Times New Roman", serif;
 }
 
 h1 {
@@ -12,5 +12,5 @@ h1 {
 p {
   color: black;
   font-size: 12 px
-    font weight: normal
+    font-weight: normal
 }
