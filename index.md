@@ -6,12 +6,18 @@
          <title>bridge club</title>
          <link rel="stylesheet" href="main/style.css"/>
        </head>
- <body>
-      <center>
-         <h1>Bridge Club<sub><i>at the University of Chicago<i><sub><h1>
-      <h2>we meet thursdays at 8</h2>
-    <p><b>begginers are welcome<b></p>
-       <p><b>i love pancakes<b></p>
-          <button>join our mailing list</button>
-  </body>
+<body>
+<center>
+<h1>Bridge Club<sub><em>at the University of Chicago</em></sub></h1>
+</center><nav>
+<ul>
+<li><a href="/">about us</a></li>
+<li><a href="/link">bridge resources</a></li>
+</ul>
+</nav>
+<p>we meet thursdays at 8</p>
+<p><strong>begginers are welcome</strong></p>
+
+<h1><button>join our mailing list</button></h1>
+      
 </html>
