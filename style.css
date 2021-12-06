@@ -1,10 +1,10 @@
 body {
-  background-color: DarkGreen;
+  background-color: "DarkGreen";
   font-family: "Times New Roman", serif :
 }
 
 h1 {
-  color: Red;
+  color: "FireBrick";
   font-size: 30 px;
   font weight: normal;
 }
