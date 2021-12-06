@@ -1,10 +1,10 @@
 body {
-  background-color: darkgreen;
+  background-color: DarkGreen;
   font-family: "Times New Roman", serif :
 }
 
 h1 {
-  color: darkred;
+  color: Red;
   font-size: 30 px;
   font weight: normal;
 }
@@ -13,5 +13,5 @@ p {
   color: black;
   font-size: 12 px
     font weight: normal
-  
+}
 }
