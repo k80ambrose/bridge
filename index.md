@@ -17,7 +17,8 @@
 </nav>
 <p>we meet thursdays at 8</p>
 <p><strong>begginers are welcome</strong></p>
-
+<center>
 <button>join our mailing list</button>
+      </center>
       </body>   
 </html>
