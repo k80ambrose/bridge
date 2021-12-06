@@ -11,8 +11,8 @@
             <h1>Bridge Club<sub><em>at the University of Chicago</em></sub></h1>
             <div></div>
       </center>
-      <h2>About us</h2>
-      <p>dummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytext</p>
+      <h2>About us</h2>     <p>dummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytextdummytext</p>
+      <h2>Resources</h2>
 <p>we meet thursdays at 8</p>
 <p><strong>begginers are welcome</strong></p>
 <center>
