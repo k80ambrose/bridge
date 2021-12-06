@@ -5,7 +5,8 @@ body {
 }
 
 h1 {
-  color: FireBrick;
+  color: white;
+  text-shadow: 2px 2px 2px #C70202;
   font-family: times, serif;
   font-size:30 px;
   font-weight: bold;
