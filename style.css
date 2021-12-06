@@ -1,8 +1,10 @@
 body {
   background: #efefef;
-  font family: Helvetica;
+  font family: times;
+}
+
 h1 {
-  color: black;
+  color: red;
   font-size: 18 px;
   font weight: bold;
 }
