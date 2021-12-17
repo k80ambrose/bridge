@@ -1,11 +1,6 @@
 body {
   background-color: DarkGreen;
   font-family: Times, serif;
-  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=8306);
-}
-
-.module {
-  cursor: url('https://www.transparentpng.com/download/ace-card/gtThgc-free-playing-cards-icon-downloads.png'), auto;	
 }
 
 h1 {
@@ -14,6 +9,7 @@ h1 {
   font-family: times, serif;
   font-size:50 px;
   font-weight: bold;
+  margin:100px;
 }
 
 h2 {
