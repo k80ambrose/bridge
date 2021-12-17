@@ -1,5 +1,6 @@
 html {
-  cursor: url('91162.png'), default;
+  cursor: url('91162.png') default;
+  cursor: url('91150.png') pointer;
 }
 
 body {
