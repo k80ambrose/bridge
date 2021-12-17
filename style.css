@@ -21,8 +21,14 @@ h2 {
 }
 
 p {
-  color:white;
+  color:black;
   font-size:12 px;
   font-weight:normal;
   font-align: left;
+}
+
+.white-div {
+  background-color:white;
+  width: 500px;
+  padding:25px;
 }
