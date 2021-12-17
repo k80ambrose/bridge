@@ -1,3 +1,7 @@
+html {
+  cursor: url('91162.png'), default;
+}
+
 body {
   background-color: DarkGreen;
   font-family: Times, serif;
