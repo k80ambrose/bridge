@@ -17,6 +17,19 @@ h1 {
   cursor: pointer;
 }
 
+h2 {
+  color: White;
+  text-shadow: 2px 2px 2px FireBrick;
+  font-size:24px;
+  font-weight: bold;
+}
+
+p {
+  color: black;
+  font-size: 14px;
+  font-weight: normal;
+}
+
 .turned-div {
   background-color: white;
   width: 225px;
@@ -31,18 +44,6 @@ h1 {
   transform: rotate(12deg);
 }
 
-h2 {
-  color: White;
-  text-shadow: 2px 2px 2px FireBrick;
-  font-size:22px;
-  font-weight: bold;
-}
-
-p {
-  color: black;
-  font-size:14px;
-  font-weight:normal;
-}
 
 .white-div {
   background-color: white;
