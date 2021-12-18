@@ -38,4 +38,5 @@ p {
   width: 500px;
   padding:25px;
   border: 5px solid FireBrick;
+  border-radius: 14px;
 }
