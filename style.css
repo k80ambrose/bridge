@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color:#004D1A,green;
+  background-color:#004D1A, green;
   font-family: times, serif;
 }
 
@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-  color: White;
+  color: white;
   text-shadow: 2px 2px 2px #CC0000;
   font-size:24px;
   font-weight: bold;
