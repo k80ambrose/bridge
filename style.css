@@ -42,6 +42,7 @@ p {
   webkit-box-shadow: -5px 8px 14px 6px #000000; 
   box-shadow: -5px 8px 14px 6px #000000;
   transform: rotate(12deg);
+  cursor: url('91150.png'), auto;
 }
 
 .white-div {
