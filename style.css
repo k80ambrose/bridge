@@ -32,10 +32,6 @@ h1 {
   border-radius: 14px;
   webkit-box-shadow: -5px 8px 14px 6px #000000; 
   box-shadow: -5px 8px 14px 6px #000000;
-  -moz-transform: rotate(12deg);
-  -webkit-transform: rotate(12deg);
-  -o-transform: rotate(12deg);
-  -ms-transform: rotate(12deg);
   transform: rotate(12deg);
 }
 
