@@ -1,5 +1,5 @@
 html {
-  cursor: url('91162.png') default;
+  cursor: url('91162.png') auto;
 }
 
 body {
@@ -61,4 +61,5 @@ p {
   border-radius: 14px;
   webkit-box-shadow: -5px 8px 14px 6px #000000; 
   box-shadow: -5px 8px 14px 6px #000000;
+  cursor: url('91150.png') auto;
 }
