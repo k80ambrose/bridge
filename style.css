@@ -10,7 +10,7 @@ body {
 h1 {
   color: white;
   text-shadow: 3px 3px 3px FireBrick;
-  font-family: times, serif;
+  font-family: Times, serif;
   font-size:50px;
   font-weight: bold;
   padding: 25px;
@@ -19,7 +19,7 @@ h1 {
 }
 
 .turned-div {
-   background-color: white;
+  background-color: white;
   width: 225px;
   height: 350px;
   padding:20px;
