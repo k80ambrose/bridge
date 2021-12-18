@@ -42,4 +42,6 @@ p {
   border: 5px solid FireBrick;
   webkit-border-radius: 14px;
   border-radius: 14px;
+  webkit-box-shadow: -5px 8px 14px 6px #000000; 
+  box-shadow: -5px 8px 14px 6px #000000;
 }
