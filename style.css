@@ -15,7 +15,7 @@ h1 {
   font-weight: bold;
   padding: 25px;
   margin:100px;
-  cursor: crosshair;
+  cursor: grab;
 }
 
 .turned-div {
@@ -58,5 +58,5 @@ p {
   border-radius: 14px;
   webkit-box-shadow: -5px 8px 14px 6px #000000; 
   box-shadow: -5px 8px 14px 6px #000000;
-  cursor: url('91150.png') auto;
+  cursor: url('91150.png'), auto;
 }
