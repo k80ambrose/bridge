@@ -10,7 +10,6 @@ body {
 h1 {
   color: white;
   text-shadow: 3px 3px 3px FireBrick;
-  font-family: Times, serif;
   font-size:50px;
   font-weight: bold;
   padding: 25px;
@@ -35,16 +34,14 @@ h1 {
 h2 {
   color: White;
   text-shadow: 2px 2px 2px FireBrick;
-  font-family: times, serif;
-  font-size:20px;
-  font-weight: normal;
+  font-size:22px;
+  font-weight: bold;
 }
 
 p {
-  color:black;
-  font-size:12px;
+  color: black;
+  font-size:14px;
   font-weight:normal;
-  font-align: left;
 }
 
 .white-div {
