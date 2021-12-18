@@ -3,13 +3,13 @@ html {
 }
 
 body {
-  background-color:#004D1A, green;
+  background-color:#004D1A;
   font-family: times, serif;
 }
 
 h1 {
   color: white;
-  text-shadow: 3px 3px 3px pink;
+  text-shadow: 3px 3px 3px #CC0000;
   font-size:50px;
   font-weight: bold;
   padding: 25px;
