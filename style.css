@@ -22,11 +22,21 @@ h1 {
 }
 
 .turned-div {
--moz-transform: rotate(12deg);
--webkit-transform: rotate(12deg);
--o-transform: rotate(12deg);
--ms-transform: rotate(12deg);
-transform: rotate(12deg);
+   background-color: white;
+  width: 225px;
+  height: 350px;
+  padding:20px;
+  margin:100px;
+  border: 5px solid FireBrick;
+  webkit-border-radius: 14px;
+  border-radius: 14px;
+  webkit-box-shadow: -5px 8px 14px 6px #000000; 
+  box-shadow: -5px 8px 14px 6px #000000;
+  -moz-transform: rotate(12deg);
+  -webkit-transform: rotate(12deg);
+  -o-transform: rotate(12deg);
+  -ms-transform: rotate(12deg);
+  transform: rotate(12deg);
 }
 
 h2 {
