@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: darkgreen;
+  background-color: #004D1A, darkgreen;
   font-family: Times, serif;
 }
 
@@ -61,4 +61,5 @@ p {
 
 button {
   cursor: grab;
+  margin: 5px;
 }
