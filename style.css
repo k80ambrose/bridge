@@ -7,10 +7,6 @@ body {
   font-family: Times, serif;
 }
 
-button {
-  cursor: url('91150.png') auto;
-}
-
 h1 {
   color: white;
   text-shadow: 3px 3px 3px FireBrick;
