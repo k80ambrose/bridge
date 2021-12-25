@@ -18,8 +18,7 @@ h1 {
 }
 
 h2 {
-  color: white;
-  text-shadow: 2px 2px 2px #CC0000;
+  color: #CC0000;
   font-size:24px;
   font-weight: bold;
 }
