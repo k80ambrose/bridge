@@ -78,9 +78,8 @@ button {
   margin: 10px;
 }
 
-@media screen (min-width: 300px) and (max-width: 550px){
+@media screen (min-width: 300px) and (max-width: 650px){
 h1 {
-  font-size: 24px;
   color: blue;
 }
 sub{
