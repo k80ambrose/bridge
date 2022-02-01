@@ -75,6 +75,7 @@ button {
   font-family: Georgia, serif;
   color: white;
   cursor: pointer;
+  padding: 5px;
   margin: 10px;
 }
 
