@@ -26,9 +26,8 @@ h2 {
 
 h3 {
   color: #800000;
-  font-size:17px;
-  font-weight: thin;
-  font-style: italic;
+  font-size:20px;
+  font-weight: bold;
 }
 
 p {
@@ -82,9 +81,5 @@ button {
 @media (max-width: 480px){
   h1 {
   white-space: nowrap;
-  font-size: 33px;
-  }
-  body {
-    background-color: blue;
   }
 }
