@@ -71,7 +71,7 @@ a {
 }
 
 button {
-  background-color: black;
+  background-color: #424241;
   font-family: Georgia, serif;
   color: white;
   cursor: pointer;
@@ -82,5 +82,9 @@ button {
 h1 {
   font-size: 24px;
   color: blue;
+}
+sub{
+  font-size: 18px;
+  color: pink;
 }
 }
