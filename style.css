@@ -79,9 +79,8 @@ button {
   margin: 10px;
 }
 
-@media (max-width: 650px){
+@media (max-width: 480px){
   h1 {
-  font-size: 22px;
   white-space: nowrap;
   }
   body {
