@@ -79,7 +79,11 @@ button {
 }
 
 @media (max-width: 650px){
+  h1 {
+  font-size: 22px;
+  white-space: nowrap;
+  }
   body {
-  background-color: blue;
+    background-color: blue;
   }
 }
