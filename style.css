@@ -78,12 +78,8 @@ button {
   margin: 10px;
 }
 
-@media screen (min-width: 300px) and (max-width: 650px){
-h1 {
-  color: blue;
-}
-sub{
-  font-size: 18px;
-  color: pink;
-}
+@media (max-width: 650px){
+  body {
+  background-color: blue;
+  }
 }
