@@ -36,6 +36,11 @@ p {
   font-weight: normal;
 }
 
+a {
+  color: red;
+  text-decoration: underline;
+}
+
 .turned-div {
   background-color: white;
   width: 225px;
