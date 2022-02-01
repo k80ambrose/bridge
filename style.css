@@ -72,6 +72,7 @@ a {
 
 button {
   background-color: black;
+  font-family: Georgia, serif;
   color: white;
   cursor: pointer;
   margin: 10px;
@@ -79,7 +80,7 @@ button {
 
 @media screen (min-width: 300px) and (max-width: 550px){
 h1 {
-  font-size: 30 px;
+  font-size: 24px;
   color: blue;
 }
 }
