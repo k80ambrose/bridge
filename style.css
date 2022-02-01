@@ -80,7 +80,8 @@ button {
 }
 
 @media (max-width: 480px){
-  h1 {
+  h1 em {
+  font-size: 12px;
   white-space: nowrap;
   }
 }
