@@ -54,7 +54,6 @@ a {
   box-shadow: -5px 8px 14px 6px #000000;
   transform: rotate(12deg);
   cursor: url('91150.png'), auto;
-  vertical-align: middle;
 }
 
 .white-div {
@@ -69,7 +68,6 @@ a {
   webkit-box-shadow: -5px 8px 14px 6px #000000;
   box-shadow: -5px 8px 14px 6px #000000;
   cursor: url('91150.png'), auto;
-  vertical-align: middle;
 }
 
 button {
@@ -97,7 +95,7 @@ button {
     border-radius: 14px;
     webkit-box-shadow: -5px 8px 14px 6px #000000;
     box-shadow: -5px 8px 14px 6px #000000;
-    vertical-align: middle;
+    margin-right: 10%;
   }
   .turned-div {
     background-color: white;
@@ -111,6 +109,6 @@ button {
     webkit-box-shadow: -5px 8px 14px 6px #000000;
     box-shadow: -5px 8px 14px 6px #000000;
     transform: rotate(12deg);
-    vertical-align: middle;
+    margin-right: 10%;
   }
 }
