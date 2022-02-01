@@ -90,30 +90,9 @@ button {
   white-space: nowrap;
   }
   .white-div {
-    background-color: white;
-    width: 270px;
-    height: 420px;
-    padding:15px;
-    margin:50px;
-    border: 5px solid #800000;
-    webkit-border-radius: 14px;
-    border-radius: 14px;
-    webkit-box-shadow: -5px 8px 14px 6px #000000;
-    box-shadow: -5px 8px 14px 6px #000000;
-    margin-right: 15vw;
+    margin-right: 10vw;
   }
   .turned-div {
-    background-color: white;
-    width: 270px;
-    height: 420px;
-    padding:15px;
-    margin:50px;
-    border: 5px solid #800000;
-    webkit-border-radius: 14px;
-    border-radius: 14px;
-    webkit-box-shadow: -5px 8px 14px 6px #000000;
-    box-shadow: -5px 8px 14px 6px #000000;
-    transform: rotate(12deg);
-    margin-right: 15vw;
+    margin-right: 10vw;
   }
 }
