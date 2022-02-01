@@ -14,11 +14,12 @@ h1 {
   font-size:40px;
   font-weight: bold;
   padding: 25px;
-  margin:50px;
+  margin:25px;
 }
 
 h2 {
-  color: #800000;
+  color:white;
+  text-shadow:1px 1px 1px #800000;
   font-size:24px;
   font-weight: bold;
 }
