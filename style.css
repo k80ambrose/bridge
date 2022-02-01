@@ -81,7 +81,34 @@ button {
 
 @media (max-width: 480px){
   h1 em {
-  font-size: 15px;
+  font-size: 17px;
   white-space: nowrap;
+  }
+  .white-div {
+    background-color: white;
+    width: 270px;
+    height: 420px;
+    padding:15px;
+    margin:50px;
+    border: 5px solid #800000;
+    webkit-border-radius: 14px;
+    border-radius: 14px;
+    webkit-box-shadow: -5px 8px 14px 6px #000000;
+    box-shadow: -5px 8px 14px 6px #000000;
+    cursor: url('91150.png'), auto;
+  }
+  .turned-div {
+    background-color: white;
+    width: 270px;
+    height: 420px;
+    padding:15px;
+    margin:50px;
+    border: 5px solid #800000;
+    webkit-border-radius: 14px;
+    border-radius: 14px;
+    webkit-box-shadow: -5px 8px 14px 6px #000000;
+    box-shadow: -5px 8px 14px 6px #000000;
+    transform: rotate(12deg);
+    cursor: url('91150.png'), auto;
   }
 }
