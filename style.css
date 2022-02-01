@@ -7,7 +7,6 @@ body {
   font-family: Georgia, serif;
 }
 
-
 h1 {
   color: white;
   text-shadow: 3px 3px 3px #800000;
@@ -26,13 +25,13 @@ h2 {
 
 h3 {
   color: #800000;
-  font-size:20px;
+  font-size:24px;
   font-weight: bold;
 }
 
 p {
   color: black;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: normal;
 }
 
