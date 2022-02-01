@@ -7,6 +7,7 @@ body {
   font-family: Georgia, serif;
 }
 
+
 h1 {
   color: white;
   text-shadow: 3px 3px 3px #800000;
@@ -44,7 +45,7 @@ p {
   border: 5px solid #800000;
   webkit-border-radius: 14px;
   border-radius: 14px;
-  webkit-box-shadow: -5px 8px 14px 6px #000000; 
+  webkit-box-shadow: -5px 8px 14px 6px #000000;
   box-shadow: -5px 8px 14px 6px #000000;
   transform: rotate(12deg);
   cursor: url('91150.png'), auto;
@@ -59,12 +60,20 @@ p {
   border: 5px solid #800000;
   webkit-border-radius: 14px;
   border-radius: 14px;
-  webkit-box-shadow: -5px 8px 14px 6px #000000; 
+  webkit-box-shadow: -5px 8px 14px 6px #000000;
   box-shadow: -5px 8px 14px 6px #000000;
   cursor: url('91150.png'), auto;
 }
 
 button {
+  background-color: black;
+  text-color: white;
   cursor: pointer;
   margin: 10px;
+}
+
+@media screen (min-width: 300px) and (max-width: 500){
+h1 {
+  font-size: 30 px;
+}
 }
