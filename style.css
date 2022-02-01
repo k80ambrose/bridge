@@ -67,13 +67,14 @@ p {
 
 button {
   background-color: black;
-  text-color: white;
+  color: white;
   cursor: pointer;
   margin: 10px;
 }
 
-@media screen (min-width: 300px) and (max-width: 500){
+@media screen (min-width: 300px) and (max-width: 550px){
 h1 {
   font-size: 30 px;
+  color: blue;
 }
 }
