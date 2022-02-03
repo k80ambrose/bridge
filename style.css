@@ -93,10 +93,12 @@ button {
     align-items: center;
     display: flex
     align-self: center;
+    margin-left: auto;
   }
   .turned-div {
     align-items: center;
     display: flex
     align-self: center;
+    margin-right: auto;
   }
 }
