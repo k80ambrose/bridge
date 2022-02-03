@@ -90,9 +90,13 @@ button {
   white-space: nowrap;
   }
   .white-div {
-    margin-left: 10vw;
+    align-items: center;
+    display: flex
+    align-self: center;
   }
   .turned-div {
-    margin-left: 10vw;
+    align-items: center;
+    display: flex
+    align-self: center;
   }
 }
