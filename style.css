@@ -90,9 +90,9 @@ button {
   white-space: nowrap;
   }
   .white-div {
-    margin-right: 100px;
+    margin-left: 10vw;
   }
   .turned-div {
-    margin-right: 10px;
+    margin-left: 10vw;
   }
 }
