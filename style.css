@@ -85,7 +85,6 @@ button {
 
 .top {
   align-self: start;
-  justify-content: start;
   left: 5px;
 }
 
@@ -96,7 +95,6 @@ button {
   o-transform: rotate(180deg);
   transform: rotate(180deg);
   align-self: end;
-  justify-content: end;
   right: 5px;
 }
 
