@@ -83,6 +83,7 @@ button {
   align-items: start;
   align-self: flex-start;
   justify-content: flex-start;
+  left: 5px;
 }
 
 .bottom {
@@ -94,6 +95,7 @@ button {
   align-items: end;
   align-self: flex-end;
   justify-content: flex-end;
+  right: 5px;
 }
 
 @media (max-width: 480px){
