@@ -84,7 +84,7 @@ button {
 }
 
 .topsuit {
-  align-self: start;
+  align-self: left;
   left: 5px;
 }
 
@@ -94,7 +94,7 @@ button {
   ms-transform: rotate(180deg);
   o-transform: rotate(180deg);
   transform: rotate(180deg);
-  align-self: end;
+  align-self: right;
   right: 5px;
 }
 
