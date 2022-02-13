@@ -87,6 +87,7 @@ button {
 
 .top {
   align-items: start;
+  align-self: flex-start;
 }
 
 .bottom {
@@ -96,6 +97,7 @@ button {
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
   align-items: end;
+  align-self: flex-end;
 }
 
 @media (max-width: 480px){
