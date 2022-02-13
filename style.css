@@ -88,16 +88,18 @@ button {
 .top {
   align-items: start;
   align-self: flex-start;
+  justify-content: flex-start;
 }
 
 .bottom {
-  -webkit-transform:rotate(180deg);
-  -moz-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
+  webkit-transform:rotate(180deg);
+  moz-transform: rotate(180deg);
+  ms-transform: rotate(180deg);
+  o-transform: rotate(180deg);
   transform: rotate(180deg);
   align-items: end;
   align-self: flex-end;
+  justify-content: flex-end;
 }
 
 @media (max-width: 480px){
