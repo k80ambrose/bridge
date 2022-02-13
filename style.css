@@ -46,7 +46,7 @@ a {
   text-decoration: underline;
 }
 
-.turned-div {
+.cardaskew {
   background-color: white;
   width: 270px;
   height: 420px;
@@ -61,7 +61,7 @@ a {
   cursor: url('91150.png'), auto;
 }
 
-.white-div {
+.card {
   background-color: white;
   width: 270px;
   height: 420px;
