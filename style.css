@@ -83,12 +83,12 @@ button {
   box-shadow: -5px 8px 14px 6px #000000;
 }
 
-.top {
+.topsuit {
   align-self: start;
   left: 5px;
 }
 
-.bottom {
+.bottomsuit {
   webkit-transform:rotate(180deg);
   moz-transform: rotate(180deg);
   ms-transform: rotate(180deg);
